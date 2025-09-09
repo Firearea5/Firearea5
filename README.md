@@ -3,7 +3,7 @@ I am currently working on python, meteorology, and html. <br>I'm looking to call
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/vDurGjvDKN) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jrrblx1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smartyweather@gmail.com) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/UdCrGJ25Ws) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jrrblx1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:smartyweather@gmail.com) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
